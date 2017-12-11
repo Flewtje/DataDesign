@@ -1,1 +1,9 @@
 CBS
+Bestaande koopwoningen; verkoopprijzen prijsindex 2010 = 100
+
+http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=81884ned&D1=7&D2=118%2c135%2c152%2c169%2c186%2c203%2c220%2c237%2c254%2c271%2c288%2c305%2c322%2c339%2c356%2c373&HDR=T&STB=G1&VW=T
+
+Publieksrapportage Rijkswegennet
+1e periode 2017, 1 januari – 30 april
+
+https://www.rijksoverheid.nl/documenten/rapporten/2017/10/25/publieksrapportage-rijkswegennet-2017
