@@ -41,6 +41,12 @@ Uitgesproken faillissementen; kerncijfers
 
 http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=82242NED&D1=0&D2=0&D3=356,373,390,407,424,441,458,475,492,509,526,543,560,577,594,611&HDR=T,G2&STB=G1&VW=T
 
+CBS
+Arbeidsdeelname, vanaf 1969
+
+http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=83752ned&D1=4&D2=0&D3=0&D4=32-47&HDR=G2%2cT&STB=G1%2cG3&VW=T
+
+
 Publieksrapportage Rijkswegennet
 1e periode 2017, 1 januari – 30 april
 
