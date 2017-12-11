@@ -1,1 +1,4 @@
 CBS
+Verkeersprestaties vrachtvoertuigen; kilometers, gewicht, grondgebied
+
+http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=80379NED&D1=0&D2=0&D3=0&D4=a&HDR=G2%2cT&STB=G3%2cG1&VW=T
